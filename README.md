@@ -114,11 +114,16 @@ comparing quarters across years.
 Suggested repository structure:
 
 ``` text
-shadowfox-superstore-data-analysis/
-├── Superstore_Data_Analysis.xlsx
+SHADOWFOX/
 ├── README.md
-└── screenshots/
-    └── dashboard.png
+│
+└── Beginner Level/
+    ├── Cleaned_Data.xlsx
+    ├── Dashboard.png
+    ├── Dashboard.xlsx
+    ├── KPIs.xlsx
+    ├── README.md
+    └── Raw_Data.xlsx
 ```
 
 Add the screenshot folder only if you include dashboard screenshots.
